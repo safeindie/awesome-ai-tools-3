@@ -2017,7 +2017,8 @@ Join 2700+ creators to reach billions of people globally
 
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
-1. [Igly](https://igly.ai/) 👉 Free AI image editor for e-commerce and content teams with background removal, image generation, upscale, restore, inpaint, and canvas editing
+1. [Igly](https://igly.ai/) 👉 Free AI image editor for e-commerce
+1. [Photoshoot](https://photoshoot.app/?utm_source=github_pingan8787&utm_medium=backlink&utm_campaign=202609_w7_backlinks) 👉 AI commercial photography studio for e-commerce. Turn one product photo into studio-grade listing images, model try-on shots and ad creatives and content teams with background removal, image generation, upscale, restore, inpaint, and canvas editing
 
 1. [AI Background Generator by PhotoRoom](https://www.photoroom.com/backgrounds/) 👉 Describe the image you want, and it will magically generate an infinite number of unique backgrounds using stable diffusion that match your exact request
 
